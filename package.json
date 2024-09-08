@@ -1,7 +1,7 @@
 {
   "name": "github-user-activity",
   "version": "1.0.0",
-  "description": "A CLI tool for fetching user GitHub activity and displaying it in the terminal.",
+  "description": "A command-line interface (CLI) tool for fetching and displaying recent activity from a GitHub user.",
   "main": "dist/index.js",
   "bin": {
     "gua": "dist/index.js"
