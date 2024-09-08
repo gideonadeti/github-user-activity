@@ -1,4 +1,4 @@
-export interface Event {
+export interface GitHubEvent {
   id: string;
   type: string;
   actor: Actor;
